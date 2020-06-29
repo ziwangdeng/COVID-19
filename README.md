@@ -1,2 +1,2 @@
 # COVID-19
-Forecast COVID-19 model
+COVID-19 Status around the world
